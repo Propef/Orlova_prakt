@@ -1,0 +1,13 @@
+C:\Users\Nikita\source\repos\TV\TV\bin\Debug\netcoreapp3.1\TV.exe
+C:\Users\Nikita\source\repos\TV\TV\bin\Debug\netcoreapp3.1\TV.deps.json
+C:\Users\Nikita\source\repos\TV\TV\bin\Debug\netcoreapp3.1\TV.runtimeconfig.json
+C:\Users\Nikita\source\repos\TV\TV\bin\Debug\netcoreapp3.1\TV.runtimeconfig.dev.json
+C:\Users\Nikita\source\repos\TV\TV\bin\Debug\netcoreapp3.1\TV.dll
+C:\Users\Nikita\source\repos\TV\TV\bin\Debug\netcoreapp3.1\TV.pdb
+C:\Users\Nikita\source\repos\TV\TV\obj\Debug\netcoreapp3.1\TV.csprojAssemblyReference.cache
+C:\Users\Nikita\source\repos\TV\TV\obj\Debug\netcoreapp3.1\TV.AssemblyInfoInputs.cache
+C:\Users\Nikita\source\repos\TV\TV\obj\Debug\netcoreapp3.1\TV.AssemblyInfo.cs
+C:\Users\Nikita\source\repos\TV\TV\obj\Debug\netcoreapp3.1\TV.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\source\repos\TV\TV\obj\Debug\netcoreapp3.1\TV.dll
+C:\Users\Nikita\source\repos\TV\TV\obj\Debug\netcoreapp3.1\TV.pdb
+C:\Users\Nikita\source\repos\TV\TV\obj\Debug\netcoreapp3.1\TV.genruntimeconfig.cache
