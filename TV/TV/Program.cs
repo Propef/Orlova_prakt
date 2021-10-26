@@ -39,7 +39,7 @@ namespace TV
             while (true)
 
             {
-
+                Console.WriteLine("МОЖНО ПОЖАЛУЙСТА СДАТЬ ЛЕКЦИИ ЗАВТРА ПОЖАЛУЙСТА");
                 Console.WriteLine("Выберите первоначальный канал (от 1 до 3 включительно)");
 
                 int Num = int.Parse(Console.ReadLine());
